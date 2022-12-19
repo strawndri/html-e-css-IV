@@ -8,7 +8,7 @@
 
 ### Tópicos 
 
-:small_blue_diamond: [Sobre o projeto](#:barber-sobre-o-projeto)
+:small_blue_diamond: [Sobre o projeto](#sobre-o-projeto)
 
 :small_blue_diamond: [Conhecimentos adquiridos](#conhecimentos-adquiridos)
 
@@ -20,16 +20,16 @@
 
 ---
 
-## ℹ️ Sobre o projeto 
+## Sobre o projeto 
 Site desenvolvido durante o curso [HTML5 e CSS3 parte 1: crie uma página da Web](https://cursos.alura.com.br/course/html5-css3-primeiros-passos), na plataforma [Alura](https://www.alura.com.br/), pelo instrutor [Pedro Marins](https://www.linkedin.com/in/pedromarins/). O objetivo foi consolidar os conhecimentos iniciais de HTML5 e CSS3.
 
-## 🧠 Conhecimentos adquiridos
+## Conhecimentos adquiridos
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
-## ▶️ Como executar
+## Como executar
 
-## 🚀 Tecnologias
+## Tecnologias
 - [x] [HTML5](https://www.w3schools.com/html/default.asp)
 - [x] [CSS3](https://www.w3schools.com/css/default.asp)
 
