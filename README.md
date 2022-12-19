@@ -8,7 +8,7 @@
 
 ### Tópicos 
 
-:small_blue_diamond: [Sobre o projeto](#sobre-o-projeto)
+:small_blue_diamond: [Sobre o projeto](#:barber-sobre-o-projeto)
 
 :small_blue_diamond: [Conhecimentos adquiridos](#conhecimentos-adquiridos)
 
