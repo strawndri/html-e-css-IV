@@ -29,7 +29,7 @@ Site desenvolvido durante o curso [HTML5 e CSS3 parte 1: crie uma página da Web
 
 ## ⚙️ Funcionalidades
 
-## ▶️ Como rodar a aplicação
+## ▶️ Como executar
 
 ## 🚀 Tecnologias
 [X] [HTML5](https://www.w3schools.com/html/default.asp)
