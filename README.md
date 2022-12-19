@@ -1,4 +1,4 @@
-# Barbearia Alura
+# 💈 Barbearia Alura
 
 <p align="center">
   
@@ -20,21 +20,21 @@
 
 ---
 
-## Sobre o projeto 
+## ℹ️ Sobre o projeto 
 
 <p align="justify">
 Site desenvolvido durante o curso [HTML5 e CSS3 parte 1: crie uma página da Web](https://cursos.alura.com.br/course/html5-css3-primeiros-passos), na plataforma [Alura](https://www.alura.com.br/), pelo instrutor [Pedro Marins](https://www.linkedin.com/in/pedromarins/). O objetivo foi consolidar os conhecimentos iniciais de HTML5 e CSS3.
 </p>
 
-## Conhecimentos adquiridos
+## 🧠 Conhecimentos adquiridos
 [X]
 [X]
 
-## Funcionalidades
+## ⚙️ Funcionalidades
 
-## Como rodar a aplicação
+## ▶️ Como rodar a aplicação
 
-## Tecnologias
+## 🚀 Tecnologias
 [X] [HTML5](https://www.w3schools.com/html/default.asp)
 [X] [CSS3](https://www.w3schools.com/css/default.asp)
 
