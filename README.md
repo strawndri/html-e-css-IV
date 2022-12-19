@@ -9,9 +9,13 @@
 ### Tópicos 
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
+
 :small_blue_diamond: [Conhecimentos adquiridos](#conhecimentos-adquiridos)
+
 :small_blue_diamond: [Funcionalidades](#funcionalidades)
+
 :small_blue_diamond: [Como executar](#como-executar)
+
 :small_blue_diamond: [Tecnologias](#tecnologias)
 
 ---
