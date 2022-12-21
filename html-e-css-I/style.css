@@ -3,11 +3,15 @@ body {
     color: #333;
 }
 
+.principal {
+    background: #ebebeb;
+}
+
 #banner {
     width: 100%
 }
 
-h1 {
+h1, h2 {
     text-align: center
 }
 
