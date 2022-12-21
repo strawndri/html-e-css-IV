@@ -5,6 +5,7 @@ body {
 
 .principal {
     background: #ebebeb;
+    padding: 30px;
 }
 
 #banner {
@@ -27,6 +28,21 @@ em strong {
     color: #5f6b91;
 }
 
+.beneficios {
+    padding: 20px;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 5%;
+}
+
 .itens {
     font-style: italic;
+}
+
+.imagem-beneficios {
+    width: 50%;
 }
