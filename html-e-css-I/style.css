@@ -22,3 +22,7 @@ p {
 em strong {
     color: #5f6b91;
 }
+
+.itens {
+    font-style: italic;
+}
