@@ -35,8 +35,22 @@ Site desenvolvido durante o curso [HTML5 e CSS3 parte 1: crie uma página da Web
 - Como posicionar elementos na tela com a propriedade `display`.
 
 ## Funcionalidades
+- Ler sobre a Barbearia Alura;
+- Conhecer a missão da empresa;
+- Indentificar, por meio de uma lista, os benefícios da Barberia Alura.
 
-## Como executar
+## Como executar/visualizar
+
+1. Clonar o repositório:
+```
+git clone https://github.com/strawndri/barbearia-alura.git
+```
+
+2. Localizar e acessar a pasta "barbearia-alura";
+3. Localizar e acessar a pasta "html-e-css-I";
+4. Dar um duplo click no arquivo "index.html"
+
+Caso não queria realizar o processo acima, você pode acessar o site a partir do Github Pages:
 
 ## Tecnologias
 - [x] [HTML5](https://www.w3schools.com/html/default.asp)
