@@ -14,7 +14,7 @@
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades)
 
-:small_blue_diamond: [Como executar/visualizar](#como-executar/visualizar)
+:small_blue_diamond: [Como executar/visualizar](#como-executar-e-visualizar)
 
 :small_blue_diamond: [Tecnologias](#tecnologias)
 
@@ -41,7 +41,7 @@ Site desenvolvido durante o curso [HTML5 e CSS3 parte 1: crie uma página da Web
 - Conhecer a missão da empresa;
 - Indentificar, por meio de uma lista, os benefícios da Barberia Alura.
 
-## Como executar/visualizar
+## Como executar e visualizar
 
 1. Clonar o repositório:
 ```
