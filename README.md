@@ -23,6 +23,8 @@
 ## Sobre o projeto 
 Site desenvolvido durante o curso [HTML5 e CSS3 parte 1: crie uma página da Web](https://cursos.alura.com.br/course/html5-css3-primeiros-passos), na plataforma [Alura](https://www.alura.com.br/), pelo instrutor [Pedro Marins](https://www.linkedin.com/in/pedromarins/). O objetivo foi consolidar os conhecimentos iniciais de HTML5 e CSS3.
 
+![Recorte de captura de tela do site "Barbearia Alura". Na parte superior esquerda, há a logo do site, que é a representação de uma figura masculina de óculos e bigode. Ao lado da logo, está escrito "Barbearia Alura". Na parte central da captura de tela, há o banner da página, o qual mostra uma imagem de tons escuros com três poltronas de uma barbearia; ao fundo, existe três espelhos e uma pia com produtos de barbearia. A parede é feita de tijolos e o piso possui azulejos coloridos.](https://i.imgur.com/HOhPVw5.png)
+
 ## Conhecimentos adquiridos
 - Utilizar tags no HTML;
 - Construir uma página com semântica através do HTML;
