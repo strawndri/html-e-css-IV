@@ -51,6 +51,7 @@ git clone https://github.com/strawndri/barbearia-alura.git
 4. Dar um duplo click no arquivo "index.html"
 
 Caso não queria realizar o processo acima, você pode acessar o site a partir do Github Pages:
+- [Barbearia Alura no Github Pages](https://strawndri.github.io/barbearia-alura/)
 
 ## Tecnologias
 - [x] [HTML5](https://www.w3schools.com/html/default.asp)
