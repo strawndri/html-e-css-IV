@@ -47,7 +47,7 @@ git clone https://github.com/strawndri/barbearia-alura.git
 ```
 
 2. Localizar e acessar a pasta "barbearia-alura";
-3. Dar um duplo click no arquivo "index.html"
+3. Dar um duplo click no arquivo "index.html".
 
 Caso não queria realizar o processo acima, você pode acessar o site a partir do Github Pages:
 - [Barbearia Alura no Github Pages](https://strawndri.github.io/barbearia-alura/)
