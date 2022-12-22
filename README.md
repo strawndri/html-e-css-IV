@@ -14,7 +14,7 @@
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades)
 
-:small_blue_diamond: [Como executar](#como-executar/visualizar)
+:small_blue_diamond: [Como executar/visualizar](#como-executar/visualizar)
 
 :small_blue_diamond: [Tecnologias](#tecnologias)
 
