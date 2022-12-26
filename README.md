@@ -1,7 +1,7 @@
-# 💈 Barbearia Alura
+<h1 align="center">💈 Barbearia Alura 💈 </h1>
 
 <p align="center">
-  
+  <img src="https://i.imgur.com/qdFuTNV.png" alt="" />
 </p>
 
 > Status do Projeto: :construction: Em progresso 
