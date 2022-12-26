@@ -1,10 +1,13 @@
 <h1 align="center">💈 Barbearia Alura 💈 </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/qdFuTNV.png" alt="" />
+  <img src="https://i.imgur.com/sbks7BN.png" alt="" />
 </p>
 
-> Status do Projeto: :construction: Em progresso 
+<p align="center">
+    <img src='https://img.shields.io/badge/License-MIT-f2a2b7?style=for-the-badge&logo=appveyor' alt="">
+    <img src='https://img.shields.io/badge/Status-Finalizado-abf285?style=for-the-badge&logo=appveyor' alt="">
+</p>
 
 ### Tópicos 
 
