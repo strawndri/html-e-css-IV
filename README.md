@@ -1,12 +1,12 @@
 <h1 align="center">💈 Barbearia Alura 💈 </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/sbks7BN.png" alt="" />
+  <img src="https://i.imgur.com/Y0LFGDT.png" alt='Banner. Imagem com fundo cor-de-rosa com uma borda cinza escuro em seu entorno. Ao centro, há um retângulo cinza escuro com o texto: "HTML5 e CSS3 parte 1: crie uma página da Web". Ao lado esquerdo desse retângulo, há um ícone com o texto "CSS" e uma imagem representativa da linguagem CSS em azul, no centro dela há o número três. Ao lado direito do retângulo, há um ícone com o texto "HTML" e uma imagem representativa da linguagem HTML em alaranjado, no centro dela há o número cinco. Abaixo do retângulo cinza, há um retângulo menor cor-de-rosa, nele está escrito "Barbearia Alura".' />
 </p>
 
 <p align="center">
-    <img src='https://img.shields.io/badge/License-MIT-f2a2b7?style=for-the-badge&logo=appveyor' alt="">
-    <img src='https://img.shields.io/badge/Status-Finalizado-abf285?style=for-the-badge&logo=appveyor' alt="">
+    <img src='https://img.shields.io/badge/License-MIT-f2a2b7?style=for-the-badge&logo=appveyor' alt='Badge. Retângulo dividido em duas partes: no lado esquerdo, o retângulo possui a cor cinza, um círculo azul com vazados e o texto "LICENSE"; no lado direito, o retângulo é cor-de-rosa e contém o texto "MIT".'>
+    <img src='https://img.shields.io/badge/Status-Finalizado-abf285?style=for-the-badge&logo=appveyor' alt='Badge. Retângulo dividido em duas partes: no lado esquerdo, o retângulo possui a cor cinza, um círculo azul com vazados e o texto "STATUS"; no lado direito, o retângulo é verde e contém o texto "Finalizado".'>
 </p>
 
 ### Tópicos 
@@ -61,7 +61,7 @@ Caso não queria realizar o processo acima, você pode acessar o site a partir d
 - [x] [HTML5](https://www.w3schools.com/html/default.asp)
 - [x] [CSS3](https://www.w3schools.com/css/default.asp)
 
-## Desenvolvedora
+## Feito com carinho por:
 
 | [<img src="https://avatars.githubusercontent.com/u/62841828?v=4" width=115><br><sub>Andrieli Luci Gonçalves</sub>](https://github.com/strawndri) |
 | :---: |
