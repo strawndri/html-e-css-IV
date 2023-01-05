@@ -1,0 +1,66 @@
+body {
+    background: #F9F9F9;
+    color: #333;
+    font-family:Arial,  sans-serif;
+}
+
+header {
+    padding: .5em 0 1em 1em;
+    background: #ebebeb;
+
+}
+
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #333;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #3b4c72;
+    text-decoration: underline;
+}
+
+.logo {
+    width: 20%;
+}
+
+#banner {
+    width: 100%;
+}
+
+footer {
+    text-align: center;
+    background: url('../img/bg.jpg');
+    color: #f9f9f9;
+    padding: 20px 0 10px 0;
+}
+
+footer img {
+    width: 15%;
+}
+
+.copyright {
+    padding: 40px 0;
+    font-size: 13px;
+    margin-top: 10px;
+}
