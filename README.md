@@ -27,10 +27,19 @@
 Site desenvolvido durante o curso [HTML5 e CSS3 parte 2: crie uma página da Web](https://cursos.alura.com.br/course/html5-css3-posicionamento-listas-navegacao), na plataforma [Alura](https://www.alura.com.br/), pelo instrutor [Pedro Marins](https://www.linkedin.com/in/pedromarins/). O objetivo foi dar continuidade aos estudos sobre HTML e CSS.
 
 ## Conhecimentos adquiridos
-
+- Navegação de páginas com links;
+- "Resetar" o estilo com `reset.css`;
+- Uso de display `inline`, `block` e `inline-block`;
+- O que são e como usar pseudo-classes;
+- Posicionamento relativo e absoluto;
+- Centralização eficiente de elementos.
 
 ## Funcionalidades
-
+- Navegar pelas páginas da Barbearia Alura
+- Ler sobre a Barbearia Alura;
+- Conhecer a missão da empresa;
+- Indentificar, por meio de uma lista, os benefícios da Barberia Alura;
+- Conhecer os produtos ofertados pela empresa.
 
 ## Como executar e visualizar
 
@@ -39,8 +48,8 @@ Site desenvolvido durante o curso [HTML5 e CSS3 parte 2: crie uma página da Web
 git clone https://github.com/strawndri/html-e-css-II.git
 ```
 
-2. Localizar e acessar a pasta "barbearia-alura";
-3. Dar um duplo click no arquivo "produtos.html".
+2. Localizar e acessar a pasta "html-e-css-II";
+3. Dar um duplo click no arquivo "index.html".
 
 Caso não queria realizar o processo acima, você pode acessar o site a partir do Github Pages:
 - [Barbearia Alura no Github Pages](https://strawndri.github.io/html-e-css-II/)
