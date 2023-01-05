@@ -1,37 +1,3 @@
-header {
-    background: #ebebeb;
-}
-
-.caixa {
-    position: relative;
-    width: 940px;
-    margin: 0 auto;
-}
-
-nav {
-    position: absolute;
-    top: 110px;
-    right: 0;
-}
-
-nav li {
-    display: inline;
-    margin: 0 0 0 15px;
-}
-
-nav a {
-    text-transform: uppercase;
-    color: #333;
-    font-weight: bold;
-    font-size: 22px;
-    text-decoration: none;
-}
-
-nav a:hover {
-    color: #3b4c72;
-    text-decoration: underline;
-}
-
 .produtos {
     width: 940px;
     margin: 0 auto;
@@ -75,16 +41,4 @@ nav a:hover {
     font-size: 22px;
     font-weight: bold;
     margin: 10px 0 0;
-}
-
-footer {
-    text-align: center;
-    background: url('../img/bg.jpg');
-    color: #f9f9f9;
-}
-
-.copyright {
-    padding: 40px 0;
-    font-size: 13px;
-    margin: 20px 0 0;
 }
