@@ -1,7 +1,7 @@
-<h1 align="center">💈 Barbearia Alura 💈 </h1>
+<h1 align="center">💈 Barbearia Alura 💈</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/dQt0TGd.png" alt='Banner. Imagem com fundo cor-de-rosa com uma borda cinza escuro em seu entorno. Ao centro, há um retângulo cinza escuro com o texto: "HTML5 e CSS3 parte 2: crie uma página da Web". Ao lado esquerdo desse retângulo, há um ícone com o texto "CSS" e uma imagem representativa da linguagem CSS em azul, no centro dela há o número três. Ao lado direito do retângulo, há um ícone com o texto "HTML" e uma imagem representativa da linguagem HTML em alaranjado, no centro dela há o número cinco. Abaixo do retângulo cinza, há um retângulo menor cor-de-rosa, nele está escrito "Barbearia Alura".' />
+  <img src="https://i.imgur.com/YTAxpRS.png" alt='Banner. Imagem com fundo cor-de-rosa com uma borda cinza escuro em seu entorno. Ao centro, há um retângulo cinza escuro com o texto: "HTML5 e CSS3 parte 2: posicionamento, listas e navegação". Ao lado esquerdo desse retângulo, há um ícone com o texto "CSS" e uma imagem representativa da linguagem CSS em azul, no centro dela há o número três. Ao lado direito do retângulo, há um ícone com o texto "HTML" e uma imagem representativa da linguagem HTML em alaranjado, no centro dela há o número cinco. Abaixo do retângulo cinza, há um retângulo menor cor-de-rosa, nele está escrito "Barbearia Alura".' />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 ---
 
 ## Sobre o projeto 
-Site desenvolvido durante o curso [HTML5 e CSS3 parte 2: crie uma página da Web](https://cursos.alura.com.br/course/html5-css3-posicionamento-listas-navegacao), na plataforma [Alura](https://www.alura.com.br/), pelo instrutor [Pedro Marins](https://www.linkedin.com/in/pedromarins/). O objetivo foi dar continuidade aos estudos sobre HTML e CSS.
+Site desenvolvido durante o curso [HTML5 e CSS3 parte 2: posicionamento, listas e navegação](https://cursos.alura.com.br/course/html5-css3-posicionamento-listas-navegacao), na plataforma [Alura](https://www.alura.com.br/), pelo instrutor [Pedro Marins](https://www.linkedin.com/in/pedromarins/). O objetivo foi dar continuidade aos estudos sobre HTML e CSS.
 
 ## Conhecimentos adquiridos
 - Navegação de páginas com links;
