@@ -22,33 +22,43 @@
     </header>
     <main>
         <form>
-            <label for="nome-sobrenome">Nome e sobrenome:</label>
-            <input type="text" id="nome-sobrenome">
-            <label for="email">E-mail:</label>
-            <input type="mail" id="email">
-            <label for="telefone">Telefone:</label>
-            <input type="tel" id="telefone">
-            <label for="mensagem">Mensagem</label>
-            <textarea cols="70" rows="10" id="mensagem"></textarea>
+            <label>
+                Nome e sobrenome:
+                <input type="text" class="input-padrao">
+            </label>
+            <label>
+                E-mail:
+                <input type="mail" class="input-padrao">
+            </label>
+            <label>
+                Telefone:
+                <input type="tel" class="input-padrao">
+            </label>
+            <label>
+                Mensagem:
+                <textarea cols="70" rows="10" class="input-padrao"></textarea>
+            </label>
             
             <div>
                 <p>Como prefere o contato?</p>
                 <label>
-                    E-mail
                     <input name="contato" type="radio" value="email">
+                    E-mail
                 </label>
                 <label>
-                    Telefone
                     <input name="contato" type="radio" value="telefone">
-                </label><label>
-                    Whatsapp
+                    Telefone
+                </label>
+                
+                <label>
                     <input name="contato" type="radio" value="whatsapp">
+                    Whatsapp
                 </label>
             </div>
 
             <label>
+                <input type="checkbox" class="checkbox">
                 Gostaria de receber nossas novidades por e-mail?
-                <input type="checkbox">
             </label>
             
             <input type="submit" value="Enviar formulário">
