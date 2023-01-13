@@ -7,7 +7,7 @@
 }
 
 .principal {
-    background: #ebebeb;
+    background: #f8fcca;
     padding: 30px;
 }
 
@@ -16,12 +16,12 @@
 }
 
 p {
-    text-align: center;
+    width: 50%;
     margin: 1em 20em;
 }
 
 #missao {
-    font-size: 20px;
+    font-size: 18px;
 }
 
 em strong {
@@ -34,8 +34,8 @@ em strong {
 
 .lista-beneficios {
     display: inline-block;
-    width: 20%;
-    margin: 3em 5em 0 15em;
+    width: 30%;
+    margin: 2em 5em 0 15em;
     vertical-align: top;
 }
 
@@ -45,5 +45,19 @@ em strong {
 }
 
 .imagem-beneficios {
-    width: 30%;
+    width: 20%;
+}
+
+table {
+    margin: 20px auto 50px auto;
+}
+
+thead {
+    background-color: #cecece;
+    font-weight: bold;
+}
+
+td, th {
+    border: 2px solid #333;
+    padding: 10px 60px;
 }

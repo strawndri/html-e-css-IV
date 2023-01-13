@@ -4,6 +4,10 @@
     padding: 50px 0;
 }
 
+.produtos img {
+    width: 50%
+}
+
 .produtos li {
     display: inline-block;
     text-align: center;
@@ -14,18 +18,17 @@
     box-sizing: border-box;
     border: 2px solid #333;
     border-radius: 5px;
+    transition: .5s all;
 }
 
 .produtos li:hover {
     border-color: #3b4c72;
+    transform: scale(1.05);
+    cursor: pointer;
 }
 
 .produtos li:active{
     border-color: #7285ad;
-}
-
-.produtos li:hover h2 {
-    font-size: 32px;
 }
 
 .produtos h2 {

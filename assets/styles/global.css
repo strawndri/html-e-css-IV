@@ -1,6 +1,6 @@
 body {
     background: #F9F9F9;
-    color: #333;
+    color: #555;
     font-family:Arial,  sans-serif;
 }
 
@@ -49,19 +49,20 @@ nav a:hover {
     width: 100%;
 }
 
-footer {
-    text-align: center;
-    background: url('../img/bg.jpg');
-    color: #f9f9f9;
-    padding: 20px 0 10px 0;
+h2, h3 {
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 10px;
 }
 
-footer img {
-    width: 15%;
+footer {
+    text-align: center;
+    background-color: #FFBBD8;
+    padding: 20px 0 10px 0;
 }
 
 .copyright {
     padding: 40px 0;
-    font-size: 13px;
+    font-size: 18px;
     margin-top: 10px;
 }
