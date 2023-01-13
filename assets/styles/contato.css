@@ -32,9 +32,11 @@ form label, form legend {
     border-radius: 2px;
     color: #f9f9f9;
     font-size: 18px;
-    transition: .5s background;
+    transition: .5s all;
 }
 
 .enviar:hover {
     background: #495e8a;
+    cursor: pointer;
+    transform: scale(1.025);
 }
