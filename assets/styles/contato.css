@@ -40,3 +40,17 @@ form label, form legend {
     cursor: pointer;
     transform: scale(1.025);
 }
+
+table {
+    margin: 20px 0 50px 0;
+}
+
+thead {
+    background-color: #cecece;
+    font-weight: bold;
+}
+
+td, th {
+    border: 2px solid #333;
+    padding: 10px 50px;
+}
