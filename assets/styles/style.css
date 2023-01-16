@@ -1,37 +1,31 @@
 .titulo-principal {
+    display: inline;
     padding-left: .5em;
     vertical-align: top;
     
-    font-size: 2em;
-    text-align: center;
-    margin-bottom: 1.5em;
+    font-size: 28px;
 }
 
 .principal {
+    background: #f8fcca;
     padding: 30px;
-    margin: 0 auto;
-    width: 940px;
 }
 
-
-.principal p {
-    margin: 1em 2em;
+.titulo-centralizado {
+    text-align: center
 }
 
-.principal strong {
+p {
+    width: 50%;
+    margin: 1em 20em;
+}
+
+#missao {
     font-size: 18px;
-    font-weight: bold;
 }
 
-.principal em {
-    font-style: italic;
+em strong {
     color: #3b4c72;
-}
-
-.utensilios {
-    float: left;
-    width: 25%;
-    margin: 0 4em;
 }
 
 .beneficios {
