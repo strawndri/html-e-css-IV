@@ -67,3 +67,14 @@ td, th {
     border: 2px solid #333;
     padding: 10px 60px;
 }
+
+.mapa {
+    width: 940px;
+    margin: 0 auto;
+    padding: 3em 0;
+}
+
+.mapa p {
+    margin: 0 0 2em;
+    text-align: center;
+}
