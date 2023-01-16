@@ -78,3 +78,8 @@ td, th {
     margin: 0 0 2em;
     text-align: center;
 }
+
+.video {
+    width: 540px;
+    margin: 1em auto;
+}
