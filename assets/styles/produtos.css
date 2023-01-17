@@ -5,7 +5,7 @@
 }
 
 .produtos img {
-    width: 50%
+    width: 50%;
 }
 
 .produtos li {
@@ -18,12 +18,14 @@
     box-sizing: border-box;
     border: 2px solid #333;
     border-radius: 5px;
+    opacity: 0.8;
     transition: .5s all;
 }
 
 .produtos li:hover {
     border-color: #3b4c72;
     transform: scale(1.05);
+    opacity: 1;
     cursor: pointer;
 }
 
