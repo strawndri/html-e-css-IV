@@ -94,4 +94,5 @@ td, th {
 .video {
     width: 540px;
     margin: 1em auto;
+    box-shadow: 19px 5px 12px 4px #00000042;
 }
