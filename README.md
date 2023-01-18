@@ -27,7 +27,14 @@
 Site desenvolvido durante o curso [HTML5 e CSS3 parte 4: avançando no CSS](https://cursos.alura.com.br/course/html5-css3-avancando-css), na plataforma [Alura](https://www.alura.com.br/), pelo instrutor [Pedro Marins](https://www.linkedin.com/in/pedromarins/). O objetivo foi dar continuidade aos estudos sobre HTML e CSS.
 
 ## Conhecimentos adquiridos
-- 
+- Uso de `float`;
+- Inserção de conteúdos externos, como fontes, vídeos e mapas;
+- Utilização de pseudo-classes;
+- Uso de `linear-gradient` para aplicar um estilo degradê a um background;
+- Seleção específica com `>`, `~` e `+`;
+- Realização de cálculos matemáticos para construção de estilos;
+- Opacidade e sombra;
+- Responsividade com a meta tag de `Viewport` e `media queries`.
 
 ## Funcionalidades
 - Navegar pelas páginas da Barbearia Alura
