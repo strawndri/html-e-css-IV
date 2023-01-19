@@ -3,6 +3,8 @@ main {
 }
 
 form {
+    display: flex;
+    flex-direction: column;
     width: 940px;
     margin: 40px auto;
 }
@@ -28,7 +30,7 @@ textarea {
     display: block;
     margin: 0 0 20px;
     padding: 10px 25px;
-    width: 50%;
+    width: 30em;
 }
 
 .checkbox {
@@ -36,7 +38,7 @@ textarea {
 }
 
 .enviar {
-    width: 55%;
+    width: 25em;
     padding: 15px 0;
     background: #7285ad;
     border: none;
@@ -50,4 +52,11 @@ textarea {
     background: #495e8a;
     cursor: pointer;
     transform: scale(1.025);
+}
+
+@media screen and (max-width: 700px) {
+    form {
+        width: auto;
+        margin: 1em 2em;
+    }
 }

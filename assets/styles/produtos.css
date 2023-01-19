@@ -47,3 +47,20 @@
     font-weight: bold;
     margin: 10px 0 0;
 }
+
+@media screen and (max-width: 700px) {
+    .produtos {
+        width: auto;
+    }
+
+    .produtos img {
+        width: 10em;
+    }
+
+    .produtos li {
+        width: 80%;
+        display: block;
+        margin: 1em auto;
+        padding: 2em;
+    }
+}
