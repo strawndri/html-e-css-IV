@@ -39,6 +39,7 @@ Site desenvolvido durante o curso [HTML5 e CSS3 parte 4: avançando no CSS](http
 - Navegar pelas páginas da Barbearia Alura
 - Ler sobre a Barbearia Alura;
 - Conhecer a missão da empresa;
+- Conhecer onde está localizada a Barbearia Alura;
 - Indentificar, por meio de uma lista, os benefícios da Barberia Alura;
 - Conhecer os produtos ofertados pela empresa;
 - Visualizar horários de agendamento;
