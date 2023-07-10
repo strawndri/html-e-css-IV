@@ -53,7 +53,7 @@ Este projeto faz parte de uma sequência de outros. Caso queira vê-los por comp
 3. Dar um duplo click no arquivo "index.html".
 
 Caso não queria realizar o processo acima, você pode acessar o site a partir do Github Pages:
-- [Barbearia Alura no Github Pages](https://strawndri.github.io/barbearia-alura/)
+- [Barbearia Alura no Github Pages](strawndri.github.io/html-e-css-IV/)
 
 ## Tecnologias utilizadas
 
